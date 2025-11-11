@@ -1,5 +1,8 @@
 # Old Style Paint App
 
+## Screenshot
+![Photo of Paint.exe](Photo.png)
+
 ## Description:
 Old School vibes. This is a simple paint program made with Python and Tkinter, now packed as a .exe so you can just run it. Draw, fill, pick colors, or clear the canvas—just like the OG Paint.
 
